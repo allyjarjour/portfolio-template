@@ -6,5 +6,6 @@
 
 ## Customize
 - There has been an initial layout created and some styling added to get you started, but feel free to add and remove sections based on your own experiences and projects.
-- Commit your changes and push up to the remote repo using `git push origin` + branch name
+- Commit your changes and push up to the remote repo using `git push origin` + branch name.
+- Open the index.html file in the browser to see your changes, refreshing after each update. 
 
