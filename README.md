@@ -1,6 +1,6 @@
 # Portfolio Template
 
-## Get started:
+## Get started
 - Fork this repo, using the fork button in the upper right hand corner
 - Clone down forked repo to your local machine using `git clone` + the repo url. Be sure to `cd` into the folder where you want this project to live first.
 
