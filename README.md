@@ -1,10 +1,10 @@
 # Portfolio Template
 
 ## Get started:
-- Fork this repo, using the form button in the upper right hand corner
-- Clone down repo to your local machine using `git clone` + the repo url
+- Fork this repo, using the fork button in the upper right hand corner
+- Clone down forked repo to your local machine using `git clone` + the repo url. Be sure to `cd` into the folder where you want this project to live first.
 
 ## Customize
-- There is an inital layout as a sample, but feel free to add and remove sections based on your own experiences and projects.
+- There has been an initial layout created and some styling added to get you started, but feel free to add and remove sections based on your own experiences and projects.
 - Commit your changes and push up to the remote repo using `git push origin` + branch name
 
