@@ -9,3 +9,4 @@
 - Commit your changes and push up to the remote repo using `git push origin` + branch name.
 - Open the index.html file in the browser to see your changes, refreshing after each update. 
 
+### See layout on GH pages here: https://allyjarjour.github.io/portfolio-template/
