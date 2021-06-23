@@ -1,0 +1,53 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: rgb(255 235 226);
+    margin: 0px;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.projects, 
+.about-me {
+    border: 1px #d0d0d0 solid;
+    padding: 20px;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+}
+
+main {
+    display: flex;
+    padding: 10px;
+}
+
+.projects {
+    flex: 2
+}
+
+.about-me {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.experience-organization {
+    display: inline;
+}
+
+@media only screen and (max-width: 800px) {
+    main {
+      flex-direction: column;
+    }
+
+    .about-me {
+        margin: 0px 0px 10px 0px;
+    }
+  }
