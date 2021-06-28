@@ -9,4 +9,9 @@
 - Commit your changes and push up to the remote repo using `git push origin` + branch name.
 - Open the index.html file in the browser to see your changes, refreshing after each update. 
 
+## Deploy to GitHub Pages
+Go to Settings on the repo page --> Github Pages --> In Source section update branch to main and save:
+
+![Source section of GitHub Pages settings page](https://user-images.githubusercontent.com/52683607/123701307-e787fe80-d81e-11eb-8757-fd952d85fe92.jpg)
+
 ### See layout on GH pages here: https://allyjarjour.github.io/portfolio-template/
